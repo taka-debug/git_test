@@ -13,7 +13,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
   変更*
 
 ~変更~
-### タイトル
+## タイトル
 kkk
 
 * `mkdocs new [dir-name]` - Create a new project.
